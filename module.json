@@ -1,0 +1,13 @@
+{
+  "name": "Compressor",
+  "core": "1.x",
+  "author": "Iurii Makukh <gplcart.software@gmail.com>",
+  "license": "GPL-3.0-or-later",
+  "version": "1.0.0-dev",
+  "description": "Aggregate and compress CSS and JS files",
+  "configure": "admin/module/settings/compressor",
+  "settings": {
+    "status_css": false,
+    "status_js": false
+  }
+}
