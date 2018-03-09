@@ -139,7 +139,7 @@ class Main
 
         $paths = array(
             'files/assets/system/js/common.js',
-            'files/assets/vendor/jquery/jquery'
+            'vendor/assets/jquery/'
         );
 
         foreach ($paths as $path) {
